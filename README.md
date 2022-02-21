@@ -11,7 +11,7 @@ The website can be found here: [Horiseon](https://tovtc.github.io/horiseon-scscb
 ## Installation and Usage
 Installation should at minimum include an index.html file and an "assets" folder containing a style.css file and seven images (four .jpg files and three .png files) in the "css" and "images" folders respectively.
 
-![Horiseon Website](./horiseon-mockup.png?raw=true "Horiseon Website")
+![Alt text](./horiseon-mockup.png?raw=true "Horiseon Website")
 
 ## Support
 Contact repository author.
